@@ -10,9 +10,7 @@ A GenAI-powered application that fetches research papers from Arxiv, generates A
 - 🎨 **Interactive UI**: Clean Streamlit interface
 - 📊 **Vector Search**: Cosine similarity-based paper matching
 
-## 🚀 Demo
 
-![Demo Screenshot](demo_screenshot.png)
 
 ## 🛠️ Installation
 
@@ -172,13 +170,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/research-paper-summarizer/issues) page
+1. Check the [Issues](https://github.com/madhav1811/research-paper-summarizer/issues) page
 2. Create a new issue with detailed description
 3. Contact: your.email@example.com
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/research-paper-summarizer&type=Date)](https://star-history.com/#yourusername/research-paper-summarizer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=madhav1811/research-paper-summarizer&type=Date)](https://star-history.com/#madhav1811/research-paper-summarizer&Date)
 
 ---
 
