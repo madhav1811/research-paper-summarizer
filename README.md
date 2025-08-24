@@ -155,9 +155,6 @@ Test with different search queries to verify:
 - XML parsing may fail with malformed Arxiv responses
 - Similarity matching depends on corpus size
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
