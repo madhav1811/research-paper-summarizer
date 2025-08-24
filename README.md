@@ -22,7 +22,7 @@ A GenAI-powered application that fetches research papers from Arxiv, generates A
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/research-paper-summarizer.git
+git clone https://github.com/madhav1811/research-paper-summarizer.git
 cd research-paper-summarizer
 ```
 
